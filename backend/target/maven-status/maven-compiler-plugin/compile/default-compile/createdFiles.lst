@@ -1,8 +1,0 @@
-com/converter/dto/ConvertRequest.class
-com/converter/ConverterApplication.class
-com/converter/service/TextConvertService$2.class
-com/converter/dto/ConvertResponse.class
-com/converter/service/ImageConvertService.class
-com/converter/service/TextConvertService.class
-com/converter/service/TextConvertService$1.class
-com/converter/controller/ConvertController.class
